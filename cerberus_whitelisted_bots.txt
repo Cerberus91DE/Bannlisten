@@ -24,4 +24,3 @@ twitchmodssdach
 vivbot
 vtuberplus
 wizebot
-wzbot
